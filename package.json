@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-starter-nehalem",
+  "description": "A starter for the Gatsby Nehalem theme",
+  "author": {
+    "name": "Kevin Hirczy",
+    "email": "kevin@nehalist.io",
+    "url": "https://nehalist.io"
+  },
+  "private": true,
+  "version": "1.0.0",
+  "main": "n/a",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "@nehalist/gatsby-theme-nehalem": "^1.0.3",
+    "gatsby": "^2.13.55",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
