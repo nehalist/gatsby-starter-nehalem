@@ -28,13 +28,22 @@ See [here](https://nehalem.netlify.com/features) for details!
 
 ## Getting Started
 
-Install this starter by running
+Step 1: Install starter
 
 ```bash
 gatsby new your-site-name https://github.com/nehalist/gatsby-starter-nehalem
 ```
 
-`cd` into the `your-site-name` directory and run `gatsby develop` directory and run `gatsby-develop` to start your site on `localhost:8000`.  
+Step 2: Run the gatsby server
+
+```bash
+cd your-site-name
+gatsby develop
+```
+
+Step 3: Check on browser
+
+Open your site on `localhost:8000`.  
 
 ## Documentation
 
