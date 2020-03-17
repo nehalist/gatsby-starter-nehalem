@@ -34,7 +34,7 @@ Install this starter by running
 gatsby new your-site-name https://github.com/nehalist/gatsby-starter-nehalem
 ```
 
-`cd` into the `your-site-name` directory and run `gatsby-develop` to start your site on `localhost:8000`.  
+`cd` into the `your-site-name` directory and run `gatsby develop` to start your site on `localhost:8000`.  
 
 ## Documentation
 
